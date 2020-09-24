@@ -394,6 +394,15 @@ h1, h2, h3, h4, h5,
           visibility: visible;
           opacity: 1; }
 
+.header_logo {
+  width:150px;
+  height: 100px;
+  margin: 0;
+  padding: 0;
+
+}
+
+
 .site-mobile-menu {
   width: 300px;
   position: fixed;
