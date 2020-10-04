@@ -1558,12 +1558,17 @@ h1, h2, h3, h4, h5,
 .accordion-item[aria-expanded="true"] {
   color: #32dbc6; }
 
+.social {
+   padding: 0 !important;
+}
+
+
 .social-media {
   display: inline-block;
   float: right;
   margin-bottom: 0px; }
   .social-media li {
-    display: inline-block; }
+    display: inline-block; }  
 
 .ft-feature-1 {
   margin-bottom: 80px; }
